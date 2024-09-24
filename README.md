@@ -3,8 +3,8 @@
 (simple) Quarkus and Kubernetes (docker-desktop) project
 
 Prerequisites:
-* Java 17
-* Maven 3.8.x
+* Java 21
+* Maven 3.9.x
 * Quarkus CLI
 * Docker Desktop with Kubernetes enabled
 * Kubectl
