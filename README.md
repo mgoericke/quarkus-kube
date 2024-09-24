@@ -33,3 +33,8 @@ http://client.quarkus-kube.internal/hello
 
 Server: Hello from RESTEasy Reactive
 ```
+
+
+https://federico.is/posts/2020/08/01/setup-crc-with-internal-image-registry/#instruct-crc-to-accept-an-insecure-registry
+
+@ToDo: PullSecret hinzufügen
